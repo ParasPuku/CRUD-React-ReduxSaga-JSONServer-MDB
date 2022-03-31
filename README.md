@@ -1,3 +1,17 @@
+# Live Access 
+
+# Screenshots snippets
+
+<img width="960" alt="crud1" src="https://user-images.githubusercontent.com/65712411/161123361-c983fd2a-5bc6-408e-b3d7-939d8e2df863.PNG">
+<img width="960" alt="crud2" src="https://user-images.githubusercontent.com/65712411/161123766-f6da17ff-57a6-466b-b4da-d0282a4179fb.PNG">
+<img width="960" alt="crud3" src="https://user-images.githubusercontent.com/65712411/161123818-cc7645c4-75b6-4e53-827f-bfb6abb6d0fe.PNG">
+<img width="960" alt="crud4" src="https://user-images.githubusercontent.com/65712411/161124114-b66a2c7b-8da3-4562-a193-3e7feda34c5d.PNG">
+<img width="960" alt="crud5" src="https://user-images.githubusercontent.com/65712411/161124161-59b10549-9384-4c16-af58-9eb65dcbe3c9.PNG">
+<img width="960" alt="crud6" src="https://user-images.githubusercontent.com/65712411/161123527-a5109c12-fde3-44d0-9b3b-31bdd8e8ffb2.PNG">
+<img width="960" alt="crud7" src="https://user-images.githubusercontent.com/65712411/161123559-78fca88d-1039-4e5b-a783-37761b61fa67.PNG">
+<img width="960" alt="crud8" src="https://user-images.githubusercontent.com/65712411/161123577-3a84db23-9330-4283-88b0-891a0f69c2c0.PNG">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
