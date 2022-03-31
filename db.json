@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Paras",
+      "email": "paraspuru@gmail.com",
+      "phone": "9940494245",
+      "address": "HBR Layout Bengaluru",
+      "id": 1
+    },
+    {
+      "name": "Puru",
+      "email": "puru@gmail.com",
+      "phone": "7645823769",
+      "address": "Bachra, Ranchi",
+      "id": 2
+    },
+    {
+      "name": "Anku",
+      "email": "annkumahto444@gmail.com",
+      "phone": "9019652264",
+      "address": "Kanke, Ranchi",
+      "id": 3
+    },
+    {
+      "name": "Pujaa",
+      "email": "annkumahto444@gmail.com",
+      "phone": "7645823769",
+      "address": "BIHARI COLONY, SILLI",
+      "id": 4
+    }
+  ]
+}
