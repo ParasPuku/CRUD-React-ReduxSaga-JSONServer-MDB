@@ -3,7 +3,7 @@ URL - https://fastidious-travesseiro-425819.netlify.app/
 
 # Screenshots snippets
 
-<img width="960" alt="crud1" src="https://user-images.githubusercontent.com/65712411/161123361-c983fd2a-5bc6-408e-b3d7-939d8e2df863.PNG">
+<img width="960" alt="crud1" src="https://user-images.githubusercontent.com/65712411/161183482-87b552a6-80fd-4177-bd20-3cd8495bb436.PNG">
 <img width="960" alt="crud2" src="https://user-images.githubusercontent.com/65712411/161123766-f6da17ff-57a6-466b-b4da-d0282a4179fb.PNG">
 <img width="960" alt="crud3" src="https://user-images.githubusercontent.com/65712411/161123818-cc7645c4-75b6-4e53-827f-bfb6abb6d0fe.PNG">
 <img width="960" alt="crud4" src="https://user-images.githubusercontent.com/65712411/161124114-b66a2c7b-8da3-4562-a193-3e7feda34c5d.PNG">
